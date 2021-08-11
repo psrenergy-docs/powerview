@@ -46,4 +46,28 @@ The menu provides extra functionalities, which are described below.
 
 * Search bus: searches for a bus and place it on the center of the workspace.
 
+## Workspace
 
+The *workspace* is the main component of the graphical interface. In this area, Power View graphically displays buses and circuits of the network as well as selected transmission-related results of PSR models. Variables are displayed on map, in a georeferenced and integrated environment.
+
+Power View relies on the navigation functionality provided by *Google Maps* API and, in this way, you can move around the map and change the zoom level to highlight the geographical areas of interest.
+
+## Selection panel
+
+The selection panel shows for each group of agents (system, bus and circuit) two sub-panels that allow the user to select the variables and agents to be displayed in the workspace.
+
+### Available variables sub-panel
+
+* Variables list: shows a list with all the variables associated to the selected group.
+* Name: displays the name of the selected variable.
+* Selected for showing: enables the graphical representation of the selected variable in the workspace.
+* Exhibition mode: graphical options to display the selected variable for each agent in the workspace.
+* Selected color: defines the color of the selected variable in the workspace.
+* No fill: defines that the graphical representation in the workspace must be transparent
+* Scale: defines the scale of the graphical representation of the selected variable in the workspace.
+
+### Agents configuration sub-panel
+
+* Agents list: shows a list with all the agents associated to the selected group.
+* Name: displays the name of the selected agent.
+* Selected for showing: enables the graphical representation of the selected agent in the workspace.
