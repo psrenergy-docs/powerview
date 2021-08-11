@@ -71,3 +71,26 @@ The selection panel shows for each group of agents (system, bus and circuit) two
 * Agents list: shows a list with all the agents associated to the selected group.
 * Name: displays the name of the selected agent.
 * Selected for showing: enables the graphical representation of the selected agent in the workspace.
+
+## Simulation panel
+
+The simulation shows the controls related to chronological evolution of simulation variables, where the user defines the stage to visualize and/or "play" an animated chronological evolution of the simulation variables along the study period. It is possible to adjust the animation speed accordingly to the user's needs.
+
+The following controls are available:
+
+### Playback controls
+
+* Pause: pauses the execution at the current stage.
+* Play: stars the execution from the current stage in forward direction.
+* Backward: moves to the previous stage.
+* Forward: moves to the next stage.
+    * Repeats simulation after last stage
+
+### Other controls
+
+* Speed/Simulation: speed of the chronological time evolution.
+* Speed/Animation: speed of the graphical changes in the variables.
+* Scenario: selection of the desired scenario for visualization.
+* Block: selection of the desired block for visualization.
+* Show aggregated: displays the average values per scenario and the weighted average value per block.
+* Stage: displays the current stage displayed on the workspace.
