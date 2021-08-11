@@ -6,11 +6,11 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Welcome to Power View
+## Welcome to Power View
 
 Power View is a tool for the graphical visualization of transmission-related study results of PSR models. This tool allows the visualization on a map, in a georeferenced and integrated environment, of animated circuit flows, circuit loading, as as bus-related information such as bus generation and load. Is is also possible to show an animated chronological evolution of the variables along the study period.
 
-## Technical specifications
+### Technical specifications
 
 The visualization tool has been implemented using the *Adobe AIR* framework (based on *Adobe Flash*) and the *Google Maps* API.
 
@@ -25,6 +25,6 @@ The visualization tool has been implemented using the *Adobe AIR* framework (bas
   * Type of terrain visualization
   * Translation and zoom control
 
-## System requirements
+### System requirements
 
 Power View requires internet connection.
