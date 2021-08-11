@@ -94,3 +94,7 @@ The following controls are available:
 * Block: selection of the desired block for visualization.
 * Show aggregated: displays the average values per scenario and the weighted average value per block.
 * Stage: displays the current stage displayed on the workspace.
+
+## Values panel
+
+Displays the numerical values of the selected variables for the agents selected with the mouse.
