@@ -14,5 +14,5 @@ nav_order: 3
 
 The main sections are shown in the figure below:
 <div style="text-align:center">
-    <img src="docs/images/circ_style_part1.gif" width="600"/>
+    <img src="images/circ_style_part1.gif" width="600"/>
 </div>
