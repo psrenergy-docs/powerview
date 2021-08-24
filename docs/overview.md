@@ -4,6 +4,7 @@ nav_order: 2
 ---
 
 # Overview
+{: .no_toc }
 
 The main sections are shown in the figure below:
 <div style="text-align:center">
