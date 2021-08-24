@@ -1,7 +1,7 @@
 title: "Powerview"
 remote_theme: fabric-io-rodrigues/just-the-docs
 logo: https://www.psr-inc.com/wp-content/themes/psrNew/favicon.png
-color_scheme: dark
+color_scheme: custom
 
 back_to_top: true
 back_to_top_text: "Back to top"
