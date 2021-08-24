@@ -30,13 +30,12 @@ The visualization tool has been implemented using the *Adobe AIR* framework (bas
 Requirement
 |---|---|
 |Attribute| Requirement|
-|---|---|
 |OS | Microsoft Windows 7 or newer (x64)|
 |Processor | AMD or Intel x64 system|
 |Processor Speed | CPU at least 1,5 GHz|
 |RAM | At least 2 GB|
 |Free space | 1.5 GB minimum|
-|Display | XGA display adapter and monitor|
+|Display | High color graphics card and monitor|
 |Resolution | minimal 1280*720|
 |Internet| requires internet connection|
-|---|---|
+
