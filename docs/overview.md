@@ -13,6 +13,8 @@ The main sections are shown in the figure below:
 ## Table of contents
 {: .no_toc .text-delta }
 
+1. TOC
+{:toc}
 ---
 
 ## Quick access buttons
