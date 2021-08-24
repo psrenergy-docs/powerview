@@ -36,80 +36,50 @@ The quick access buttons provides extra functionalities, which are described bel
     * Geo-referenced: represents the circuits as continuous segments connecting each onde of the informed coordinates along the circuit path. The circuits without read coordinates available are represented schematically as a straight dashed line.
 
 
----
+## Workspace
+The workspace is the main component of the graphical interface. In this area, Power View graphically displays buses and circuits of the network as well as selected transmission-related results of PSR models. Variables are displayed on map, in a georeferenced and integrated environment.
 
-## Menu
+Power View relies on the navigation functionality provided by OpenLayers and, in this way, you can move around the map and change the zoom level to highlight the geographical areas of interest.
 
+## Side menu
 The menu provides extra functionalities, which are described below.
 
-### View menu
+### Result selecion
 
-* Refresh: refreshes the workspace with the current selected variables
-* Show selection panel: show/hides the selection panel
-* Show simulation panel: shows/hides the simulation panel
-* Show values panel: shows/hides the values panel.
-* Hide all panels: hides all panels and show only the workspace area.
-* Circuit exhibition mode:
-  * Schematic diagram: represents the circuits as continuous straight lines connnecting their terminal buses.
-  * Geo-referenced: represents the circuits as continuous segments connecting each onde of the informed coordinates along the circuit path. The circuits without read coordinates available are represented schematically as a straight dashed line.
-
-### Geographical coordinates menu
-
-* Generate coordinates: uses an internal algorithm to generate artificial coordinates for all buses, replacing the current ones. This is convenient for a preliminary analysis in case the real coordinates are not available
-
-### Search menu
-
-* Search bus: searches for a bus and place it on the center of the workspace.
-
-## Workspace
-
-The *workspace* is the main component of the graphical interface. In this area, Power View graphically displays buses and circuits of the network as well as selected transmission-related results of PSR models. Variables are displayed on map, in a georeferenced and integrated environment.
-
-Power View relies on the navigation functionality provided by *Google Maps* API and, in this way, you can move around the map and change the zoom level to highlight the geographical areas of interest.
-
-## Selection panel
-
-The selection panel shows for each group of agents (system, bus and circuit) two sub-panels that allow the user to select the variables and agents to be displayed in the workspace.
-
-### Available variables sub-panel
+The selection panel shows for each group of agents (system, bus and circuit) that allow the user to select the variables to be displayed in the workspace. 
 
 * Variables list: shows a list with all the variables associated to the selected group.
-* Name: displays the name of the selected variable.
 * Selected for showing: enables the graphical representation of the selected variable in the workspace.
+* Name: displays the name of the selected variable.
 * Exhibition mode: graphical options to display the selected variable for each agent in the workspace.
 * Selected color: defines the color of the selected variable in the workspace.
 * No fill: defines that the graphical representation in the workspace must be transparent
 * Scale: defines the scale of the graphical representation of the selected variable in the workspace.
+	
+### Agents list
+Shows a list with all the agents associated to the selected group.
 
-### Agents configuration sub-panel
+### Layers
+A basemap provides a background of geographic context for the content in Workspace. Includes a basemap gallery with a variety of choices, including topography, imagery, and streets.
 
-* Agents list: shows a list with all the agents associated to the selected group.
-* Name: displays the name of the selected agent.
-* Selected for showing: enables the graphical representation of the selected agent in the workspace.
 
+### Customization options
+Allows you to modify general Power View settings.
+	
 ## Simulation panel
-
-The simulation shows the controls related to chronological evolution of simulation variables, where the user defines the stage to visualize and/or "play" an animated chronological evolution of the simulation variables along the study period. It is possible to adjust the animation speed accordingly to the user's needs.
+The simulation shows the controls related to chronological evolution of simulation variables, where the user defines the stage to visualize and/or “play” an animated chronological evolution of the simulation variables along the study period. It is possible to adjust the animation speed accordingly to the user’s needs.
 
 The following controls are available:
+* Play/Pause: stars or pauses the execution from the current stage in forward direction.
+* Stage: displays the current stage displayed on the workspace.
+* Loop: Repeats simulation after last stage
+* Time slider: Drag the time slider to visualize the timeline animation.
+* Configuration dataset: Open dataset configuration
 
-### Playback controls
+## Result panel
+Displays the numerical values of the selected variables for the agents selected with the mouse.
 
-* Pause: pauses the execution at the current stage.
-* Play: stars the execution from the current stage in forward direction.
-* Backward: moves to the previous stage.
-* Forward: moves to the next stage.
-    * Repeats simulation after last stage
-
-### Other controls
-
-* Speed/Simulation: speed of the chronological time evolution.
-* Speed/Animation: speed of the graphical changes in the variables.
+## Dataset configuration 
 * Scenario: selection of the desired scenario for visualization.
 * Block: selection of the desired block for visualization.
 * Show aggregated: displays the average values per scenario and the weighted average value per block.
-* Stage: displays the current stage displayed on the workspace.
-
-## Values panel
-
-Displays the numerical values of the selected variables for the agents selected with the mouse.
