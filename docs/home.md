@@ -28,8 +28,8 @@ The visualization tool has been implemented using the *Adobe AIR* framework (bas
 ### System requirements
 
 Requirement
-|---|---|
 |Attribute| Requirement|
+|---|---|
 |OS | Microsoft Windows 7 or newer (x64)|
 |Processor | AMD or Intel x64 system|
 |Processor Speed | CPU at least 1,5 GHz|
