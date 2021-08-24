@@ -2,4 +2,8 @@ title: "Powerview"
 remote_theme: pmarsceill/just-the-docs
 logo: https://www.psr-inc.com/wp-content/themes/psrNew/favicon.png
 theme: jekyll-theme-cayman
+
 color_scheme: dark
+
+back_to_top: true
+back_to_top_text: "Back to top"
