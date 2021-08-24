@@ -14,6 +14,9 @@ nav_order: 2
 
 The main sections are shown in the figure below:
 <div style="text-align:center">
+    <img src="images\powerview_img_sections.png" width="600"/>
+</div>
+<div style="text-align:center">
     <video width="900" playsinline autoplay muted loop>
         <source src="images/UsingPSRIOGraphIHM.webm" type="video/webm">
         Your browser does not support the video tag.
