@@ -10,20 +10,27 @@ permalink: /
 
 Power View is a tool for the graphical visualization of transmission-related study results of PSR models. This tool allows the visualization on a map, in a georeferenced and integrated environment, of animated circuit flows, circuit loading, as as bus-related information such as bus generation and load. Is is also possible to show an animated chronological evolution of the variables along the study period.
 
+---
+
 ### Technical specifications
 
-The visualization tool has been implemented using the *Adobe AIR* framework (based on *Adobe Flash*) and the *Google Maps* API.
+The visualization tool has been implemented using the *Chromium-based* and *OpenLayers*
 
-* *Adobe AIR*: graphical development framework based on vector graphics, which allows the construction of rich content applications using high performance graphical processing. Its main characteristics are:
+*Chromium* is a free and open-source codebase for a web browser, that uses the Blink rendering engine, principally developed and maintained by Google. Powerful tool that includes the following:
+
+  * New, more powerful JavaScript APIs
+  * SVG for vector graphics
+  * Canvas for 2D and with WebGL 3D graphics
+  * CSS3 for rounded corners, gradients, etc.
+  * More expressive markup
+
+*OpenLayers* is a high-performance, feature-packed library for creating interactive maps on the web. Its main characteristics are:
   * GPU Hardware acceleration for performance optimization
   * Layer-bases interface layout
   * Vector animation support
   * Rasterized graphics animation
 
-* *Google Maps API*: Power View integration with *Google Maps* API allows the use of navigation and control functionalities such as:
-  * Terrain map visualization
-  * Type of terrain visualization
-  * Translation and zoom control
+---
 
 ### System requirements
 
