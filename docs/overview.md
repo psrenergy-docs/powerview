@@ -4,19 +4,16 @@ nav_order: 2
 ---
 
 # Overview
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 The main sections are shown in the figure below:
 <div style="text-align:center">
     <img src="images/powerview_img_sections.png" />
 </div>
 
+## Table of contents
+{: .no_toc .text-delta }
+
+---
 
 ## Quick access buttons
 The quick access buttons provides extra functionalities, which are described below.
