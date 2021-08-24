@@ -17,11 +17,26 @@ The main sections are shown in the figure below:
     <img src="images/powerview_img_sections.png" />
 </div>
 
-1. Menu
-2. Workspace
-3. Selection panel
-4. Simulation panel
-5. Values panel
+
+## Quick access buttons
+The quick access buttons provides extra functionalities, which are described below.
+
+### Zoom control
+* The Zoom control is a pair of +/- buttons for zooming in and out.
+
+### Toggle menu
+* Allows you to open and close the side menu after clicking the Toggle menu button. The goal is to hide the side menu, allowing you to display all map content
+
+### Search menu
+* Searches for an element (buses, circuits and dclinks) and place it on the center of the workspace.
+
+### Diagram viewer
+* Toggle circuit exhibition mode between *Schematic diagram* and *Geo-referenced*
+    * Schematic diagram: represents the circuits as continuous straight lines connnecting their terminal buses.
+    * Geo-referenced: represents the circuits as continuous segments connecting each onde of the informed coordinates along the circuit path. The circuits without read coordinates available are represented schematically as a straight dashed line.
+
+
+---
 
 ## Menu
 
