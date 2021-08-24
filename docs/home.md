@@ -27,7 +27,8 @@ The visualization tool has been implemented using the *Adobe AIR* framework (bas
 
 ### System requirements
 
-Requirement
+Minimum system requirements
+
 |Attribute| Requirement|
 |---|---|
 |OS | Microsoft Windows 7 or newer (x64)|
