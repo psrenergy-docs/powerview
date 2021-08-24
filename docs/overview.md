@@ -14,7 +14,7 @@ nav_order: 2
 
 The main sections are shown in the figure below:
 <div style="text-align:center">
-    <img src="images/powerview_img_sections.png" width="600"/>
+    <img src="images/powerview_img_sections.png" />
 </div>
 
 1. Menu
