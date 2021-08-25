@@ -72,9 +72,9 @@ The simulation shows the controls related to chronological evolution of simulati
 The following controls are available:
 * Play/Pause: stars or pauses the execution from the current stage in forward direction.
 * Stage: displays the current stage displayed on the workspace.
-* Loop: Repeats simulation after last stage
+* Loop: Repeats simulation after last stage.
 * Time slider: Drag the time slider to visualize the timeline animation.
-* Configuration dataset: Open dataset configuration
+* Configuration dataset: Open dataset configuration.
 
 ## Result panel
 Displays the numerical values of the selected variables for the agents selected with the mouse.
