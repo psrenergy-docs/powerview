@@ -8,7 +8,7 @@ nav_order: 2
 
 The main sections are shown in the figure below:
 <div style="text-align:center">
-    <img src="images/powerview_img_sections.png" data-lightense-background="rgba(0, 0, 0, .96)" />
+    <img src="images/powerview_img_sections.png" />
 </div>
 
 ## Table of contents
