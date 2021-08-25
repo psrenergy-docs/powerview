@@ -1,6 +1,6 @@
 ---
 title: Circuits colors preferences
-nav_order: 3
+nav_order: 2
 ---
 
 # Circuits colors preferences
