@@ -1,5 +1,5 @@
 ---
-title: Technical specifications
+title: Specifications
 nav_order: 3
 description: "Technical specifications and System requirements"
 ---
