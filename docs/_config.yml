@@ -3,6 +3,8 @@ remote_theme: fabric-io-rodrigues/just-the-docs
 logo: https://www.psr-inc.com/wp-content/themes/psrNew/favicon.png
 color_scheme: custom
 
+zoom_img_enabled: true
+
 back_to_top: true
 back_to_top_text: "Back to top"
 footer_content: "Copyright &copy; 2021 PSR."
