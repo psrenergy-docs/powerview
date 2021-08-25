@@ -1,6 +1,6 @@
 ---
 title: Technical specifications
-nav_order: 2
+nav_order: 3
 description: "Technical specifications and System requirements"
 ---
 
