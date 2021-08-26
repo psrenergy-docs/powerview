@@ -1,7 +1,10 @@
 title: "Powerview"
 remote_theme: fabric-io-rodrigues/just-the-docs
-logo: images/header_pv.png
 color_scheme: custom
+
+#force text + logo
+psr_model: "Power View"
+logo: assets/images/psr_logo.png
 
 #adding zoom in images
 zoom_img_enabled: true
