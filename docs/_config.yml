@@ -7,7 +7,7 @@ logo: assets/images/psr_logo.png
 
 #adding zoom in images
 zoom_img_enabled: true
-  
+
 #dark/light mode
 change_color_enabled: true
 color_scheme: "dark"
