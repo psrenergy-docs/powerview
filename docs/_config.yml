@@ -1,6 +1,6 @@
 title: "PSR - Power View"
 remote_theme: fabric-io-rodrigues/just-the-docs
-
+ 
 #force text + logo
 psr_model: "Power View"
 logo: assets/images/psr_logo.png
